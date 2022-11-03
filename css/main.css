@@ -3,7 +3,7 @@ article {
   margin: auto;
   max-width: 60ch;
   color: black;
-  background-color: rgb(112, 79, 116);
+  background-color: rgb(150, 111, 155);
   border-radius: 10px;
   padding: 10px;
   padding-top: 5px;
@@ -15,7 +15,7 @@ h1 {
   display: block;
   text-align: center;
   color: white;
-  font-size: 34px;
+  font-size: 40px;
   text-transform: capitalize;
 }
 
@@ -38,7 +38,7 @@ body {
 img {
   display: block;
   margin: auto;
-  width: 60%;
+  width: 100%;
   border-radius: 10px;
 }
 
@@ -46,3 +46,10 @@ img {
   display: block;
   text-align: center;
 }
+
+/* .banner {
+  display: block;
+  margin: auto;
+  width: 100%;
+  max-width: 60ch;
+} */

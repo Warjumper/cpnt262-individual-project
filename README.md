@@ -45,8 +45,10 @@
 ```
 
 ### Code attributions;
-- Tony Grimes with the incredible slides (https://sait-wbdv-f22.netlify.app/courses/cpnt-262/day-10)
+- Tony Grimes with the slides (https://sait-wbdv-f22.netlify.app/courses/cpnt-262/day-10)
 - Using fetch API's (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - Enpoint info that taught me a bit (https://docs.coveo.com/en/331/javascript-search-framework/javascript-search-framework-endpoints)
 - Images for inspo and 1 for background (https://lwlies.com/articles/studio-ghibli-400-images-film-library/)
 - Code labels (https://ghibliapi.herokuapp.com/films)
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+- https://gist.github.com/acidtone/82944dbaa59aef9247833fe79eae3fb2

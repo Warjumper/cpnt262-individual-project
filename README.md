@@ -1,7 +1,7 @@
 # cpnt262-individual-project
 ## Fetching a Studio Ghibli API
 
-#### By Jesse H
+### By Jesse H
 
 ### GitHub Pages link - https://warjumper.github.io/cpnt262-individual-project/
 
